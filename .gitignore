@@ -1,0 +1,5 @@
+.vscode/*
+*.pyc
+*.json
+*.html
+**/__pycache__/**
